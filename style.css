@@ -1,0 +1,51 @@
+.container{
+    background:linear-gradient(130deg,orange,red);
+
+    
+}
+.values{
+    float: right;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 70px;
+   
+    
+}
+.container-fluid{
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+.signal{
+    width: 200px;
+    height: 300px;
+}
+.globe{
+    width: 200px;
+    height: 300px;
+
+}
+
+.logo {
+    font-size: 200px;
+  }
+  @media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+  }
+
+
+
+.background-image{
+    background-image: url(./WIN_20220827_15_47_51_Pro.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200vh;
+    
+    
+
+}
+    
